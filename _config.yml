@@ -1,20 +1,11 @@
 name: Tolboe Capital
-favicon: null
 layout_spectrum: 0.0013408227823674679
 typography_spectrum: 0.9503647212404758
-title: Tolboe Capital
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#17BEBB'
@@ -27,3 +18,13 @@ color:
   saturation: 0.9242191819939762
   rhythmicContrast: 0.6921449906658381
 purpose: []
+title: Tolboe Photography
+description: ''
+author:
+  name: Andrew Tolboe
+  url: 'http://www.tolboe.com'
+  email: andrew@tolboe.com
+content_rating:
+  adult: false
+content: []
+github: true
